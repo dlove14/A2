@@ -1,6 +1,6 @@
 import unittest
 import string
-from task import check_pwd
+from check_pwd import check_pwd
 
 
 class TestCase(unittest.TestCase):
